@@ -1,0 +1,2 @@
+[{'student_id': 4420, 'placement_id': 1, 'placement__company_name': 'promizeit', 'placement__date_of_interview': datetime.date(2020, 2, 11), 'placement__job_description': 'test', 'placement__eligibility_criteria': 'test'},
+{'student_id': 4420, 'placement_id': 2, 'placement__company_name': 'Test 2', 'placement__date_of_interview': datetime.date(2020, 2, 27), 'placement__job_description': 'Test2', 'placement__eligibility_criteria': 'Test2'}]

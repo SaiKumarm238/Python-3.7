@@ -1,0 +1,2 @@
+[{'student_id': 4420, 'placement_id': 1, 'placement__company_name': 'promizeit', 'placement__date_of_interview': datetime.
+date(2020, 2, 11), 'placement__job_description': 'test', 'placement__eligibility_criteria': 'test','results':[{'round_name':"written test",'status':'Y'},{'round_name':"GD",'status':'N'},{'round_name':"Technical",'status':'A'}]}
